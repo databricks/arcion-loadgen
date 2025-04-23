@@ -1,4 +1,4 @@
-This is [Arcion](https://www.arcion.io/) Replicant demos using [CLI](https://docs.arcion.io/docs/quickstart/index.html) and [GUI](https://docs.arcion.io/docs/arcion-cloud-dashboard/quickstart/index.html).
+This is [Arcion](https://docs.arcion.io/) Replicant demos using [CLI](https://docs.arcion.io/docs/quickstart/index.html) and [GUI](https://docs.arcion.io/docs/arcion-cloud-dashboard/quickstart/index.html).
 Use GUI for out of the box demos.
 Use CLI for testing what if scenarions.
 GUI is preconfigured with preset source and target data combinations.
@@ -94,7 +94,7 @@ Install [Docker Desktop](https://docs.docker.com/desktop/)
 
 - Arcion Trial License
 
-Obtain [Arcion demo license](https://www.arcion.io/#) and save as licenses/arcion/arcion.lic.  The license would look like this
+Obtain [Arcion demo license](https://docs.arcion.io/#) and save as licenses/arcion/arcion.lic.  The license would look like this
 
 ```
 cat $ARCION_LIC_DIR/replicant.lic
