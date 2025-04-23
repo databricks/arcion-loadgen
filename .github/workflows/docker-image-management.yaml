@@ -106,7 +106,7 @@ jobs:
           tags: | 
             robertslee/arcdemo:${{ inputs.IMAGE_TAG }}
             ghcr.io/arcionlabs/arcdemo:${{ inputs.IMAGE_TAG }}
-          labels: org.opencontainers.image.source=https://github.com/arcionlabs/arcion-loadgen
+          labels: org.opencontainers.image.source=https://github.com/databricks/arcion-loadgen
 
           
       - name: Retry One
@@ -125,7 +125,7 @@ jobs:
           tags: | 
             robertslee/arcdemo:${{ inputs.IMAGE_TAG }}
             ghcr.io/arcionlabs/arcdemo:${{ inputs.IMAGE_TAG }}
-          labels: org.opencontainers.image.source=https://github.com/arcionlabs/arcion-loadgen
+          labels: org.opencontainers.image.source=https://github.com/databricks/arcion-loadgen
 
       - name: Retry Two
         continue-on-error: true
@@ -143,4 +143,4 @@ jobs:
           tags: | 
             robertslee/arcdemo:${{ inputs.IMAGE_TAG }}
             ghcr.io/arcionlabs/arcdemo:${{ inputs.IMAGE_TAG }}
-          labels: org.opencontainers.image.source=https://github.com/arcionlabs/arcion-loadgen
+          labels: org.opencontainers.image.source=https://github.com/databricks/arcion-loadgen

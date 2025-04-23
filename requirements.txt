@@ -1,4 +1,4 @@
-git+https://github.com/arcionlabs/jsonschema@tuple-as-key
+git+https://github.com/databricks/jsonschema@tuple-as-key
 pydantic
 universal_pathlib
 expandvars
