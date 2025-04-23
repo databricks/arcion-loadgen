@@ -21,7 +21,7 @@ flowchart LR
 
 # Demo Licenses
 
-- Obtain [Arcion demo license](https://www.arcion.io/#)
+- Obtain [Arcion demo license](https://docs.arcion.io/#)
 
 the license would look like this
 ```
